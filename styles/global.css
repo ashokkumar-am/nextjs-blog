@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Chilanka&family=Meera+Inimai&family=Nunito:wght@200;300;400;600;700&family=Pavanam&family=Varela+Round&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+::selection {
+  background: black;
+  color: white;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  font-family: 'Nunito', sans-serif;
+
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+h1 {
+  font-family: 'Nunito', sans-serif;
+  color: rgb(255, 60, 0);
+  font-size: 2.2rem;
+  font-weight: 700;
+}
