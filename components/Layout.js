@@ -2,7 +2,6 @@ import Head from 'next/head'
 import Navbar from './NavBar'
 import Footer from './Footer'
 
-
 export default function Layout({ title, description, keywords, children })
 {
     return (
